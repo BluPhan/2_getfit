@@ -14,7 +14,7 @@ export default function Layout(props) {
     <footer>
       <p>
         Built by{" "}
-        <a href="https://www.bluphan.netlify.app" target="_blank">
+        <a href="https://bluphan-portfolio.netlify.app/" target="_blank">
           BluPhan
         </a>
         <br />
